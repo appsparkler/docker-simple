@@ -4,6 +4,6 @@ services:
     build: .
     ports:
       - "3001:3000"
-    volumes:
-      - "./:/app"
-      - "/app/node_modules"
+    # volumes:
+      # - "./:/app"
+      # - "/app/node_modules"

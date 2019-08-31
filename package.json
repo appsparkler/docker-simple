@@ -8,6 +8,6 @@
     "serve": "^11.1.0"
   },
   "scripts": {
-    "build:serve": "serve index.html -p 3000"
+    "build:serve": "serve build -p 3000"
   }
 }
